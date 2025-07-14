@@ -1,0 +1,108 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem 1rem;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0077b6, #00b4d8);
+  color: var(--foreground);
+  font-size: 1.2rem;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  max-width: 700px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.form_input {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.8rem;
+  margin: 0.4rem 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: border-color 0.3s;
+}
+
+.form_input:focus {
+  outline: none;
+  border-color: #00b4d8;
+}
+
+.form_button {
+  background-color: #006400;
+  color: white;
+  font-size: 1rem;
+  padding: 0.8rem;
+  margin-top: 0.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s;
+}
+
+.form_button:hover {
+  background-color: #228b22;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--background);
+  color: var(--foreground);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Titulo3 {
+  margin: 0;
+}
+
+.btn_delete {
+  background-color: crimson;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn_delete:hover {
+  background-color: darkred;
+}
+
+.btn_edit {
+  background-color: orange;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.btn_edit:hover {
+  background-color: darkorange;
+}
