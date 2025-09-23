@@ -1,0 +1,129 @@
+{
+  "comidas_salvadoreñas": [
+    {
+      "nombre": "Pupusas",
+      "ingredientes": [
+        {"ingrediente": "Masa de maíz", "cantidad": "2 tazas"},
+        {"ingrediente": "Queso", "cantidad": "1 taza"},
+        {"ingrediente": "Frijoles refritos", "cantidad": "1 taza"},
+        {"ingrediente": "Chicharrón", "cantidad": "1 taza"}
+      ],
+      "instrucciones": [
+        "Mezclar la masa con agua y sal hasta formar una masa suave.",
+        "Hacer bolitas con la masa y rellenarlas con queso, frijoles refritos o chicharrón.",
+        "Aplastar las bolitas y cocinar en un comal caliente hasta que estén doradas por ambos lados."
+      ],
+      "imagen": "https://ejemplo.com/pupusas.jpg"
+    },
+    {
+      "nombre": "Yuca frita",
+      "ingredientes": [
+        {"ingrediente": "Yuca", "cantidad": "2 lbs"},
+        {"ingrediente": "Aceite", "cantidad": "suficiente para freír"},
+        {"ingrediente": "Sal", "cantidad": "al gusto"}
+      ],
+      "instrucciones": [
+        "Pelar y cortar la yuca en trozos.",
+        "Cocinar en agua hirviendo con sal hasta que esté suave.",
+        "Escurrir y dejar enfriar.",
+        "Freír en aceite caliente hasta que estén doradas y crujientes."
+      ],
+      "imagen": "https://ejemplo.com/yuca_frita.jpg"
+    },
+    {
+      "nombre": "Sopa de pata",
+      "ingredientes": [
+        {"ingrediente": "Pata de res", "cantidad": "1 unidad"},
+        {"ingrediente": "Maíz", "cantidad": "1 taza"},
+        {"ingrediente": "Yuca", "cantidad": "1 taza"},
+        {"ingrediente": "Plátano", "cantidad": "2 unidades"},
+        {"ingrediente": "Zanahoria", "cantidad": "1 unidad"},
+        {"ingrediente": "Cilantro", "cantidad": "1 manojo"},
+        {"ingrediente": "Cebolla", "cantidad": "1 unidad"},
+        {"ingrediente": "Ajo", "cantidad": "2 dientes"},
+        {"ingrediente": "Achiote", "cantidad": "1 cucharadita"}
+      ],
+      "instrucciones": [
+        "Cocinar la pata de res en agua con sal hasta que esté tierna.",
+        "Agregar el maíz y cocinar hasta que esté suave.",
+        "Añadir la yuca, el plátano, la zanahoria y dejar cocinar.",
+        "En una sartén aparte, hacer un sofrito con cilantro, cebolla, ajo y achiote.",
+        "Agregar el sofrito a la sopa y dejar cocinar a fuego lento por unos minutos más."
+      ],
+      "imagen": "https://ejemplo.com/sopa_pata.jpg"
+    },
+    {
+      "nombre": "Tamales",
+      "ingredientes": [
+        {"ingrediente": "Masa de maíz", "cantidad": "3 tazas"},
+        {"ingrediente": "Carne de cerdo o pollo", "cantidad": "1 lb"},
+        {"ingrediente": "Chiles", "cantidad": "2 unidades"},
+        {"ingrediente": "Papas", "cantidad": "2 unidades"},
+        {"ingrediente": "Garbanzos", "cantidad": "1 taza"},
+        {"ingrediente": "Pasas", "cantidad": "1/2 taza"},
+        {"ingrediente": "Hojas de plátano", "cantidad": "suficientes para envolver"}
+      ],
+      "instrucciones": [
+        "Preparar la masa y dejarla reposar.",
+        "Preparar el relleno con carne, chiles, papas, garbanzos y pasas.",
+        "Envolver porciones del relleno en hojas de plátano con la masa.",
+        "Cocinar al vapor por varias horas."
+      ],
+      "imagen": "https://ejemplo.com/tamales.jpg"
+    },
+    {
+      "nombre": "Enchiladas",
+      "ingredientes": [
+        {"ingrediente": "Tortillas de maíz", "cantidad": "8 unidades"},
+        {"ingrediente": "Pollo desmenuzado", "cantidad": "2 tazas"},
+        {"ingrediente": "Repollo", "cantidad": "1 taza"},
+        {"ingrediente": "Salsa de tomate", "cantidad": "2 tazas"},
+        {"ingrediente": "Queso rallado", "cantidad": "1 taza"},
+        {"ingrediente": "Crema", "cantidad": "1/2 taza"},
+        {"ingrediente": "Aguacate", "cantidad": "1 unidad"}
+      ],
+      "instrucciones": [
+        "Freír ligeramente las tortillas y sumergirlas en salsa de tomate caliente.",
+        "Rellenar con pollo desmenuzado y enrollar.",
+        "Cubrir con salsa de tomate, queso rallado, repollo rallado, crema y aguacate."
+      ],
+      "imagen": "https://ejemplo.com/enchiladas.jpg"
+    },
+    {
+      "nombre": "Atol de elote",
+      "ingredientes": [
+        {"ingrediente": "Elote molido", "cantidad": "4 tazas"},
+        {"ingrediente": "Leche", "cantidad": "4 tazas"},
+        {"ingrediente": "Azúcar", "cantidad": "1 taza"},
+        {"ingrediente": "Canela", "cantidad": "1 cucharadita"}
+      ],
+      "instrucciones": [
+        "Cocinar el elote molido con leche y azúcar a fuego lento, revolviendo constantemente hasta que espese.",
+        "Servir caliente con un toque de canela molida."
+      ],
+      "imagen": "https://ejemplo.com/atol_elote.jpg"
+    },
+    {
+      "nombre": "Pastelitos de carne",
+      "ingredientes": [
+        {"ingrediente": "Masa de maíz", "cantidad": "3 tazas"},
+        {"ingrediente": "Carne molida", "cantidad": "1/2 lb"},
+        {"ingrediente": "Cebolla", "cantidad": "1 unidad"},
+        {"ingrediente": "Pimientos", "cantidad": "1 unidad"},
+        {"ingrediente": "Ajo", "cantidad": "2 dientes"},
+        {"ingrediente": "Tomate", "cantidad": "1 unidad"},
+        {"ingrediente": "Hojas de plátano", "cantidad": "suficientes para envolver"}
+      ],
+      "instrucciones": [
+        "Preparar la masa y dejarla reposar.",
+        "Preparar el relleno con carne molida, cebolla, pimientos, ajo y tomate.",
+        "Envolver porciones del relleno en hojas de plátano con la masa.",
+        "Cocinar al vapor o freír hasta que estén dorados."
+      ],
+      "imagen": "https://ejemplo.com/pastelitos_carne.jpg"
+    }
+  ]
+}
+
+
+
